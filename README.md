@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # urbanPulse — Smart City Analytics
 
 A self-contained, static web prototype of a smart-city analytics dashboard.
@@ -91,3 +92,6 @@ python -m http.server 8000
 ---
 
 *urbanPulse · a static prototype · all data synthetic for demo purposes.*
+=======
+# urban_pulse
+>>>>>>> 3503b818bea47bf6b4a75b33c78d7eacd745110b
